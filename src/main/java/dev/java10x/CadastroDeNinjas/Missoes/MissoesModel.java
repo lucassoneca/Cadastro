@@ -20,6 +20,7 @@ public class MissoesModel {
     private Long id;
     private String nome;
     private String dificuldade;
+    private String rank;
 
     // uma missão para muitos ninjas
     // um (nome da classe) para muitos (nome da caracteristica)
